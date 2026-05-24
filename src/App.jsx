@@ -145,7 +145,7 @@ function Hero() {
         </div>
         <div className=" mt-10 flex gap-5">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Moeen-Islam"
             target="_blank"
             rel="noreferrer"
           >
@@ -153,7 +153,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/moeenislam-dev/"
             target="_blank"
             rel="noreferrer"
           >
@@ -161,7 +161,7 @@ function Hero() {
           </a>
 
           <a
-            href="https://facebook.com/yourusername"
+            href="https://www.facebook.com/moeenislam.8089/"
             target="_blank"
             rel="noreferrer"
           >
@@ -423,7 +423,7 @@ function Footer() {
         <p>© {new Date().getFullYear()} Moeen Islam. All rights reserved.</p>
         <div className="flex mr-40 gap-5">
           <a
-            href="https://github.com/yourusername"
+            href="https://github.com/Moeen-Islam"
             target="_blank"
             rel="noreferrer"
           >
@@ -431,7 +431,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://linkedin.com/in/yourusername"
+            href="https://www.linkedin.com/in/moeenislam-dev/"
             target="_blank"
             rel="noreferrer"
           >
@@ -439,7 +439,7 @@ function Footer() {
           </a>
 
           <a
-            href="https://facebook.com/yourusername"
+            href="https://www.facebook.com/moeenislam.8089/"
             target="_blank"
             rel="noreferrer"
           >
