@@ -31,7 +31,6 @@ const nav = [
   "projects",
   "experience",
   "services",
-  "testimonials",
   "contact",
 ];
 const fadeUp = {
